@@ -18,8 +18,9 @@
 
 </br></br></br>
 
-## 요구 사항 분석 (예정)
+## 요구 사항 분석 
 ---
+[요구사항 분석 V1](https://github.com/ProdToy/okky-clone-backend/blob/main/docs/%EC%9A%94%EA%B5%AC%EC%82%AC%ED%95%AD%EB%B6%84%EC%84%9D.md)
 
 ## 도메인 (예정)
 ---
